@@ -16,20 +16,40 @@
 
 ## ⚡ About Me
 
-```ts
-const AstaBuilds = {
-  role       : "Freelance Full-Stack & Backend Engineer",
-  location   : "Marrakech, Morocco",
-  available  : true,
-  experience : "3+ years",
-  focus      : ["Microservices", "Cloud-Native", "DevSecOps"],
-  stack      : ["Spring Boot", "NestJS", "Next.js", "Docker"],
-  languages  : ["Java", "TypeScript", "Python", "Dart"],
-  workStyle  : "Remote | Clean code | Async-friendly",
-  hire       : "github.com/Asta-Builds",
-};
-```
-
+<table>
+  <tr>
+    <td>⭐ <strong>Role</strong></td>
+    <td>Freelance Full-Stack & Backend Engineer</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Marrakech, Morocco</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Available</strong></td>
+    <td><strong>Yes — Open for freelance projects</strong></td>
+  </tr>
+  <tr>
+    <td>📅 <strong>Experience</strong></td>
+    <td>3+ years in backend & full-stack development</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Specialties</strong></td>
+    <td>Microservices &bull; Cloud-Native &bull; DevSecOps &bull; REST APIs</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Tech Stack</strong></td>
+    <td>Spring Boot &bull; NestJS &bull; Next.js &bull; Docker &bull; Kubernetes</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Languages</strong></td>
+    <td>Java &bull; TypeScript &bull; Python &bull; Dart</td>
+  </tr>
+  <tr>
+    <td>🌍 <strong>Work Style</strong></td>
+    <td>Remote &bull; Async-friendly &bull; Clean code advocate</td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
