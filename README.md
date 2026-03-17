@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asta-Builds&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asta-Builds&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Spring+Boot+%7C+NestJS+%7C+TypeScript;Microservices+%26+Cloud-Native+Apps;DevSecOps+%7C+Docker+%7C+Kubernetes;Open+for+Freelance+Projects+%F0%9F%92%BC)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Spring+Boot+%7C+NestJS+%7C+TypeScript;Microservices+%26+Cloud-Native+Apps;DevSecOps+%7C+Docker+%7C+Kubernetes;Open+for+Freelance+Projects+%F0%9F%92%BC)
 
 <p>
-  <a href="mailto:contact@asta-builds.dev"><img src="https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote-Worldwide-orange?style=for-the-badge&logo=globe&logoColor=white" />
+  <a href="mailto:contact@asta-builds.dev"><img src="https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&amp;logo=handshake&amp;logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-blue?style=for-the-badge&amp;logo=google-maps&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote-Worldwide-orange?style=for-the-badge&amp;logo=globe&amp;logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Asta-Builds&style=for-the-badge&color=6E40C9" />
 </p>
 
@@ -98,10 +98,10 @@ const AstaBuilds = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asta-Builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asta-Builds&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asta-Builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asta-Builds&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asta-Builds&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Asta-Builds&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -112,7 +112,7 @@ const AstaBuilds = {
 <div align="center">
 
 > 💼 **Currently available for freelance projects**
-> 
+>
 > Whether you need a scalable backend, a full-stack web app, or a DevOps pipeline — I deliver clean, production-ready code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Asta--Builds-181717?style=for-the-badge&logo=github)](https://github.com/Asta-Builds)
@@ -120,4 +120,4 @@ const AstaBuilds = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
