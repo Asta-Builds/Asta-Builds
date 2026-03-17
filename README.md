@@ -18,15 +18,15 @@
 
 ```ts
 const AstaBuilds = {
-  role        : "Freelance Full-Stack & Backend Engineer",
-  location    : "Marrakech, Morocco",
-  available   : true,
-  experience  : "3+ years",
-  specialties : ["Microservices", "REST APIs", "Cloud-Native", "DevSecOps"],
-  techStack   : ["Spring Boot", "NestJS", "Next.js", "Docker", "Kubernetes"],
-  languages   : ["Java", "TypeScript", "Python", "Dart"],
-  workStyle   : "Remote | Async-friendly | Clean code advocate",
-  hire        : "github.com/Asta-Builds",
+  role       : "Freelance Full-Stack & Backend Engineer",
+  location   : "Marrakech, Morocco",
+  available  : true,
+  experience : "3+ years",
+  focus      : ["Microservices", "Cloud-Native", "DevSecOps"],
+  stack      : ["Spring Boot", "NestJS", "Next.js", "Docker"],
+  languages  : ["Java", "TypeScript", "Python", "Dart"],
+  workStyle  : "Remote | Clean code | Async-friendly",
+  hire       : "github.com/Asta-Builds",
 };
 ```
 
