@@ -1,12 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asta-Builds&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Spring+Boot+%7C+NestJS+%7C+TypeScript;Microservices+%26+Cloud-Native+Apps;DevSecOps+%7C+Docker+%7C+Kubernetes;Open+for+Freelance+Projects+%F0%9F%92%BC)
+# 🚀 Asta-Builds
+### Freelance Full-Stack & Backend Engineer
 
-</div>
-
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Spring+Boot+%7C+NestJS+%7C+TypeScript;Microservices+%26+Cloud-Native+Apps;DevSecOps+%7C+Docker+%7C+Kubernetes;Open+for+Freelance+Projects+%F0%9F%92%BC)
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:contact@asta-builds.dev)
 ![Location](https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-blue?style=for-the-badge&logo=google-maps&logoColor=white)
@@ -121,5 +118,3 @@ const AstaBuilds = {
 [![Open for Work](https://img.shields.io/badge/Status-Open%20for%20Freelance-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Asta-Builds)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
