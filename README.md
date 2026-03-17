@@ -19,7 +19,7 @@
 ```ts
 const AstaBuilds = {
   role:       "Freelance Full-Stack & Backend Engineer",
-  location:   "Marrakech, Morocco 🇲🇦",
+  location:   "Marrakech, Morocc 🇲🇦",
   available:  true,
   focus:      ["Microservices", "Cloud-Native", "DevSecOps", "APIs"],
   stack:      ["Spring Boot", "NestJS", "Next.js", "Docker", "K8s"],
