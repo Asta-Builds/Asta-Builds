@@ -1,15 +1,17 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asta-Builds&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;Spring+Boot+%7C+NestJS+%7C+TypeScript;Microservices+%26+Cloud-Native+Apps;DevSecOps+%7C+Docker+%7C+Kubernetes;Open+for+Freelance+Projects+%F0%9F%92%BC)
 
-<p>
-  <a href="mailto:contact@asta-builds.dev"><img src="https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&amp;logo=handshake&amp;logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-blue?style=for-the-badge&amp;logo=google-maps&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote-Worldwide-orange?style=for-the-badge&amp;logo=globe&amp;logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Asta-Builds&style=for-the-badge&color=6E40C9" />
-</p>
+</div>
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:contact@asta-builds.dev)
+![Location](https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-blue?style=for-the-badge&logo=google-maps&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote-Worldwide-orange?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Asta-Builds&style=for-the-badge&color=6E40C9)
 
 </div>
 
