@@ -87,7 +87,7 @@ const AstaBuilds = {
 
 <div align="center">
 
-[![MarketVisio](https://github-readme-stats.vercel.app/api/pin/?username=Asta-Builds&repo=marketVisio&theme=tokyonight&hide_border=true)](https://github.com/Asta-Builds/marketVisio)
+[![EVT](https://github-readme-stats.vercel.app/api/pin/?username=Asta-Builds&repo=EVT&theme=tokyonight&hide_border=true)](https://github.com/Asta-Builds/EVT)
 [![adh-tech](https://github-readme-stats.vercel.app/api/pin/?username=Asta-Builds&repo=adh-tech&theme=tokyonight&hide_border=true)](https://github.com/Asta-Builds/adh-tech)
 
 </div>
