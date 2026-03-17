@@ -54,7 +54,6 @@ I build scalable, production-ready web applications and backend systems. Special
 
 ## 📌 Featured Projects
 
-- **SafeOps+** — Security logging & vulnerability detection platform (Spring Boot + ML)
 - **MarketVisio** — Market intelligence SaaS application
 - **adh-tech** — Enterprise web platform
 
